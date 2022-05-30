@@ -1,0 +1,179 @@
+body{
+    font-family: arial;
+    margin: 0;
+    background:orangered;
+    padding: 0;
+
+}
+
+
+
+#main-navigation{
+    background-color:none;
+    padding: 20px;
+
+}
+
+#main-navigation .logo p{
+    font-size: 20px;
+    font-weight: bold;
+    float: left;
+    text-transform: uppercase;
+    color: #fff;
+
+}
+
+
+
+ #main-navigation ul{
+     text-align: right;
+     list-style-type: none;
+     margin-right: 5px;
+}
+
+#main-navigation li{
+    display: inline-block;
+    margin-left: 10px;
+}
+
+
+
+#main-navigation a{
+    color: #fff;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 12px;
+    padding: 4px;
+}
+
+
+
+#main-content h1{
+    font-size: 40px;
+    margin: 30px 0;
+    padding: 0;
+    text-align: center;
+    color: #fff;
+    position: absolute;
+    top: 45%;
+    width: 100%;
+    
+}
+
+#main-content h2{
+    font-size: 40px;
+    margin: 30px 0;
+    padding: 0;
+    text-align: center;
+    color: #fff;
+    position: absolute;
+    top: 54%;
+    width: 100%;
+}
+
+
+#main-content h3{
+    font-size: 14px;
+    margin:  0;
+    padding: 0;
+    text-align: center;
+    color: #fff;
+    position: absolute;
+    width: 100%;
+    top: 77%;
+}
+
+#main-content h4{
+    font-size: 14px;
+    margin:  0;
+    padding: 0;
+    text-align: center;
+    color: #fff;
+    position: absolute;
+    width: 100%;
+    top: 80%;
+    height: 107%
+}
+
+.container1 {
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.buttons {
+    display: flex;
+    flex-direction: row;
+}
+.btn {
+   text-decoration: none;
+   padding: 20px 60px;
+   font-size: 1.2rem;
+   position: absolute;
+   margin: 30px;
+   
+}
+
+.btn-1{
+    background: orangered;
+    border-radius: 20px;
+    top: 67%;
+    padding: 2px 30px;
+    margin: 11px;
+}
+
+.btn-2{
+    background: orangered;
+    border-radius: 40px;
+    color: #fff;
+    font-size: 14px;
+    top: 92%;
+    padding: 5px 25px;
+    margin: 0px;
+
+
+}
+
+.btn-3 {
+    background: #fff;
+    border-radius: 10px;
+    top: 169%;
+    padding: 2px 20px;
+    margin: 0px;
+}
+
+
+
+#main-content h5{
+    font-size: 30px;
+    text-align: center;
+    color: #fff;
+}
+
+#main-content p{
+    font-size: 14px;
+    text-align: center;
+    color: #fff;
+    margin: 0;
+}   
+    
+    
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
